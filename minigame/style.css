@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding-left: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+img{
+    height: 70px;
+    position: absolute;
+}
+
+
+#asteroide2{
+    left:70px;
+}
+
+#asteroide3{
+    left: 300px;
+}
+
+#asteroide4{
+    left:500px;
+}
+
+#asteroide5{
+    left:894px;
+}
+
+#asteroide6{
+    left:1200px;
+}
+
+#asteroide7{
+    left:1450px;
+}
